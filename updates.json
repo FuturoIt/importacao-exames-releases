@@ -31,6 +31,11 @@
           "version": "1.4.0",
           "update_link": "https://github.com/FuturoIt/importacao-exames-releases/releases/download/v1.4.0/importar-exames-1.4.0.xpi",
           "update_hash": "sha256:d7c9543a56a76fd529a67a402727dca86655265be9ee3ec361bda62cdc60f8d5"
+        },
+        {
+          "version": "1.5.0",
+          "update_link": "https://github.com/FuturoIt/importacao-exames-releases/releases/download/v1.5.0/importar-exames-1.5.0.xpi",
+          "update_hash": "sha256:c70f68d614de01261cac5bd5277bc791717ffaa262b74abe74836c4d3d402ed6"
         }
       ]
     }
